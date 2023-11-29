@@ -1,0 +1,5 @@
+syntax = "proto3";
+option csharp_namespace = "FBEVJKGADQD.Protocol";
+message CoinCollectOperatorInfo {
+  uint32 level_id = 1;
+}

@@ -1,0 +1,26 @@
+﻿using FBEVJKGADQD.Gameserver.CWREKSPCAGC.KRACKSBFMLI.CJFUHOXIYCR;
+using FBEVJKGADQD.Protocol;
+
+namespace FBEVJKGADQD.Gameserver.CWREKSPCAGC.KRACKSBFMLI;
+internal class DMMIOUNBHHF
+{
+    private readonly List<STEHGLSHISK> HWLDSRHOXPR;
+    private readonly ZKTZSOLHWMF OBGJTGWVJFV;
+
+    public DMMIOUNBHHF(ZKTZSOLHWMF PWHYRMTHMAH)
+    {
+        HWLDSRHOXPR = new List<STEHGLSHISK>();
+        OBGJTGWVJFV = PWHYRMTHMAH;
+    }
+
+    public async ValueTask DIYWDVHLPFT(STEHGLSHISK NXUAOYXTYSI, VisionType IFYZWPCNRTU)
+    {
+        HWLDSRHOXPR.Add(NXUAOYXTYSI);
+        await OBGJTGWVJFV.UEAOFOPRVGJ(NXUAOYXTYSI, IFYZWPCNRTU);
+    }
+
+    public void CUAMXWEBJIZ()
+    {
+        HWLDSRHOXPR.Clear();
+    }
+}

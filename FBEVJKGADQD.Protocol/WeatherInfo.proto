@@ -1,0 +1,5 @@
+syntax = "proto3";
+option csharp_namespace = "FBEVJKGADQD.Protocol";
+message WeatherInfo {
+  uint32 weather_area_id = 1;
+}
